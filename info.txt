@@ -2,4 +2,4 @@ this is a critical message im going amend into of a previud commit with a new fi
 
 Commit #2 during squash activity.
 
-Commit #3 during squash activity.
+Commit #3 during squash activity.22
